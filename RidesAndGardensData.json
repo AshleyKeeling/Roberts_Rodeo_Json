@@ -1,0 +1,52 @@
+[
+    {
+      "name": "Wild West Rollercoaster",
+      "type": "ride",
+      "description": "Experience the thrill of the Wild West Rollercoaster as it twists and turns through the canyons.",
+      "image": "https://static01.nyt.com/images/2023/07/02/multimedia/29ROLLERCOASTER-02-lwgc/29ROLLERCOASTER-02-lwgc-videoSixteenByNine3000.jpg",
+      "wait_time": "15 minutes"
+    },
+    {
+      "name": "Rose Garden",
+      "type": "garden",
+      "description": "Take a leisurely stroll through the beautiful Rose Garden, filled with a variety of colorful roses.",
+      "image": "https://static01.nyt.com/images/2023/07/02/multimedia/29ROLLERCOASTER-02-lwgc/29ROLLERCOASTER-02-lwgc-videoSixteenByNine3000.jpg",
+      "wait_time": "No wait"
+    },
+    {
+      "name": "Bucking Bronco",
+      "type": "ride",
+      "description": "Hold on tight as you ride the Bucking Bronco, a thrilling mechanical bull ride.",
+      "image": "https://static01.nyt.com/images/2023/07/02/multimedia/29ROLLERCOASTER-02-lwgc/29ROLLERCOASTER-02-lwgc-videoSixteenByNine3000.jpg",
+      "wait_time": "30 minutes"
+    },
+    {
+      "name": "Ferris Wheel",
+      "type": "ride",
+      "description": "Enjoy a bird's eye view of the park from the top of the Ferris Wheel.",
+      "image": "https://static01.nyt.com/images/2023/07/02/multimedia/29ROLLERCOASTER-02-lwgc/29ROLLERCOASTER-02-lwgc-videoSixteenByNine3000.jpg",
+      "wait_time": "20 minutes"
+    },
+    {
+      "name": "Butterfly Garden",
+      "type": "garden",
+      "description": "Step into the Butterfly Garden and be surrounded by colorful butterflies of all shapes and sizes.",
+      "image": "https://static01.nyt.com/images/2023/07/02/multimedia/29ROLLERCOASTER-02-lwgc/29ROLLERCOASTER-02-lwgc-videoSixteenByNine3000.jpg",
+      "wait_time": "No wait"
+    },
+    {
+      "name": "Haunted House",
+      "type": "ride",
+      "description": "Brave the Haunted House and experience spine-chilling scares around every corner.",
+      "image": "https://static01.nyt.com/images/2023/07/02/multimedia/29ROLLERCOASTER-02-lwgc/29ROLLERCOASTER-02-lwgc-videoSixteenByNine3000.jpg",
+      "wait_time": "40 minutes"
+    },
+    {
+      "name": "Water Park",
+      "type": "ride",
+      "description": "Cool off and make a splash at the Water Park with thrilling slides and lazy rivers.",
+      "image": "https://static01.nyt.com/images/2023/07/02/multimedia/29ROLLERCOASTER-02-lwgc/29ROLLERCOASTER-02-lwgc-videoSixteenByNine3000.jpg",
+      "wait_time": "1 hour"
+    }
+  ]
+  
